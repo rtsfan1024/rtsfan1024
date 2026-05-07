@@ -14,14 +14,14 @@
 - **零侵入系统观测 (The Sensory System)**: 深入内核，感知一切。利用 **eBPF** 深入内核态抓取全链路 Tracing，结合 **OpenTelemetry** 打通各类观测数据的语义隔阂。通过自研 **AIOps** 逻辑实现故障自愈闭环，让复杂的分布式系统具备像生物一样的免疫能力。
 ---
 
-### ⚡ My AI-Augmented Workflow (Speckit 工业级流水线)
+### ⚡ The Speckit Paradigm (AI 驱动的认知与执行闭环)
 
-*我不只是在写代码，我是在指挥一支由异构模型组成的智能化交响乐团。*
+*我不只是在写代码，我是在构建一套基于异构模型协同的**自适应研发中枢**。*
 
-1. **深度调研 (Specify)**: 启动 **Gemini DeepResearch** 进行全网情报扫描，消除技术信息差。它负责为我产出具备“证据链”的技术规格书（Spec），作为后续开发的底层宪法。
-2. **认知工程 (Architecting)**: 遵循 `/speckit.constitution` 将需求转化为严谨的架构定义。利用 AI 辅助生成的 **Mermaid** 与 **AST** 模型确保方案的逻辑完备，实现设计阶段的“逻辑零缺陷”。
-3. **异构执行 (Implement)**: 利用 **Claude Code** 作为 Agent 编排层，后端挂载 **GLM/Codex** 进行高频并发编码。利用 **Rust/Go** 的强类型特性作为模型间的协议校验器，实现小步快跑的自动化交付。
-4. **确定性审计 (Audit)**: 代码上线前，必须通过自研的 **AST 静态审计 (Static Audit)** 闸口。利用 AI 配合语法树解析，在编译器级别物理阻断 SQL 注入、权限越权等逻辑黑洞。**AI 负责生产力，我负责确定性。**
+1. **知识合成与熵减 (Entropy Reduction)**: 启动 **Gemini DeepResearch** 进行多维度的技术情报合成。它不仅是消除信息差，更是通过构建**高保真上下文基座 (High-Fidelity Context Baseline)**，从源头封堵大模型的幻觉漏洞。
+2. **形式化规格定义 (Formal Synthesis)**: 遵循 `/speckit.constitution` 将非结构化需求转化为**形式化系统规格 (Formal Spec)**。利用 **AST 建模**与 **Mermaid 逻辑拓扑**实现“架构即代码”，在代码编写前完成逻辑的收敛与闭环校验。
+3. **异构解耦执行 (Heterogeneous Orchestration)**: 构建**多模型并发流水线**，以 **Claude Code** 作为逻辑推理内核，挂载 **GLM/Codex** 集群进行大规模并行实施。利用 **Rust/Go** 的强类型约束作为“异构模型间的协议校验器”，实现高频迭代下的数据一致性。
+4. **确定性治理与沙箱审计 (Deterministic Governance)**: 任何 AI 产出必须通过自研的 **AST 静态审计 (Static Sanitization)** 闸口。我们在编译器级别构建“逻辑沙箱”，实时阻断安全漏洞与语义偏移。**AI 释放无限产能，Speckit 守护绝对确定性。**
 
 ---
 
