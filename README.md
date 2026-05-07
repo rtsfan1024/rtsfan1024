@@ -18,10 +18,10 @@
 
 *我不只是在写代码，我是在构建一套基于异构模型协同的**自适应研发中枢**。*
 
-1. **知识合成与熵减 (Entropy Reduction)**: 启动 **Gemini DeepResearch** 进行多维度的技术情报合成。它不仅是消除信息差，更是通过构建**高保真上下文基座 (High-Fidelity Context Baseline)**，从源头封堵大模型的幻觉漏洞。
-2. **形式化规格定义 (Formal Synthesis)**: 遵循 `/speckit.constitution` 将非结构化需求转化为**形式化系统规格 (Formal Spec)**。利用 **AST 建模**与 **Mermaid 逻辑拓扑**实现“架构即代码”，在代码编写前完成逻辑的收敛与闭环校验。
-3. **异构解耦执行 (Heterogeneous Orchestration)**: 构建**多模型并发流水线**，以 **Claude Code** 作为逻辑推理内核，挂载 **GLM/Codex** 集群进行大规模并行实施。利用 **Rust/Go** 的强类型约束作为“异构模型间的协议校验器”，实现高频迭代下的数据一致性。
-4. **确定性治理与沙箱审计 (Deterministic Governance)**: 任何 AI 产出必须通过自研的 **AST 静态审计 (Static Sanitization)** 闸口。我们在编译器级别构建“逻辑沙箱”，实时阻断安全漏洞与语义偏移。**AI 释放无限产能，Speckit 守护绝对确定性。**
+- **知识合成与熵减 (Entropy Reduction)**: 启动 **Gemini DeepResearch** 进行多维度的技术情报合成。它不仅是消除信息差，更是通过构建**高保真上下文基座 (High-Fidelity Context Baseline)**，从源头封堵大模型的幻觉漏洞。
+- **形式化规格定义 (Formal Synthesis)**: 遵循 `/speckit.constitution` 将非结构化需求转化为**形式化系统规格 (Formal Spec)**。利用 **AST 建模**与 **Mermaid 逻辑拓扑**实现“架构即代码”，在代码编写前完成逻辑的收敛与闭环校验。
+- **异构解耦执行 (Heterogeneous Orchestration)**: 构建**多模型并发流水线**，以 **Claude Code** 作为逻辑推理内核，挂载 **GLM/Codex** 集群进行大规模并行实施。利用 **Rust/Go** 的强类型约束作为“异构模型间的协议校验器”，实现高频迭代下的数据一致性。
+- **确定性治理与沙箱审计 (Deterministic Governance)**: 任何 AI 产出必须通过自研的 **AST 静态审计 (Static Sanitization)** 闸口。我们在编译器级别构建“逻辑沙箱”，实时阻断安全漏洞与语义偏移。**AI 释放无限产能，Speckit 守护绝对确定性。**
 
 ---
 
