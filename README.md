@@ -47,10 +47,9 @@
 ### 📊 Tactical Data (战斗数据)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rtsfan1024&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtsfan1024&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-rouge-ten-42.vercel.app/api?username=rtsfan1024&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-rouge-ten-42.vercel.app/api/top-langs/?username=rtsfan1024&layout=compact&theme=radical" />
 </p>
-
 
 ---
 
